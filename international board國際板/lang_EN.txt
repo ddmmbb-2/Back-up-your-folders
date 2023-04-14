@@ -1,0 +1,14 @@
+Backup
+Backing up... Your files are very large, extremely large. Please do not close the program while backing up.\nBe patient and wait for the backup to complete. It is normal for the program to look like it has crashed.
+Backing up... Please wait for the backup to complete.
+Backup completed
+Restoring...
+Restore completed
+Delete confirmation
+Are you sure you want to delete
+Backup your folder
+File backup and restore
+Backup files
+Restore files
+Delete files
+This program is used to back up and restore files in the current folder. Please use the buttons above to operate.
